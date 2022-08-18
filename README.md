@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anubhavgupta18
-- 👀 I’m interested in coding and technology
-- 🌱 I’m currently learning C language and have 3 star on hackerrank and 2 star on codechef
+- 👀 I’m interested in Competitive Programming and Front-end Web Development
+- 🌱 I’m currently learning DSA and I'm a 3 star coder on codechef
 - 📫 How to reach me https://www.linkedin.com/in/anubhav-gupta-2a01b1229
 
 <!---
