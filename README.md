@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anubhavgupta18
-- 👀 I’m interested in Competitive Programming and Front-end Web Development
+- 👀 I’m interested in Competitive Programming and Backend-end Web Development
 - 🌱 I’m currently learning DSA and I'm a 3 star coder on codechef
 - 📫 How to reach me https://www.linkedin.com/in/anubhav-gupta-2a01b1229
 
